@@ -182,7 +182,7 @@ Think of GitHub as a social network for developers, where they can share and col
 
 GitHub is an invaluable tool for game developers collaborating with others or needing to track code changes. This guide covers the basics of using Git commands for Unity game development projects. Remember, there are many more advanced features to explore and master. With practice, you can enhance your Git knowledge and accelerate the game development process.
 
-You can Follow me on GitHub: **[Your GitHub username](https://github.com/himanshuskyrockets)**
+You can Follow me on GitHub: **[ME 📧)](https://github.com/himanshuskyrockets)**
 
 
 ## **Additional Resources**
