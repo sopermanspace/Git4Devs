@@ -20,12 +20,22 @@ Welcome to the beginner's guide on using GitHub for Unity game development proje
 
 To use GitHub, you need to create an account. Follow these steps:
 
+<div align="left">
+  <img src="https://github.com/himanshuskyrockets/Git4Devs/assets/84278213/40415f47-b62f-466a-a1f7-9d5cb3acda60" alt="Account Screenshot" width="500">
+</div>
+
 1. Go to **[github.com](https://github.com/)** and click on "Sign up."
 2. Choose either a free account or sign up for a paid plan.
 
 ## **Step 2: Create a new repository**
 
 Once you have a GitHub account, you can create a new repository for your Unity game project:
+
+<div align="left">
+  <img src="https://github.com/himanshuskyrockets/Git4Devs/assets/84278213/a923f81d-8037-4d07-92fc-673038d00139" alt="new_repo Screenshot" width="500">
+</div>
+
+
 
 1. Click on the "New repository" button on your GitHub dashboard.
 2. Follow the instructions to create a new repository.
@@ -48,7 +58,9 @@ git clone https://github.com/himanshuskyrockets/Unity_OpenAI
 
 ```
 
+
 ## **Basic Git Commands**
+![giphy](https://github.com/himanshuskyrockets/Git4Devs/assets/84278213/7c9c7524-e012-4d0c-99bb-d4820c2400c4)
 
 Now that you have your repository set up and cloned locally, it's time to learn some basic Git commands:
 
@@ -96,6 +108,10 @@ Now that you have your repository set up and cloned locally, it's time to learn 
 To see a full list of available shortcuts on GitHub, press **Shift + /** to open the keyboard shortcuts menu.
 
 ## **Advanced Git Commands**
+<div align="left">
+  <img src="https://github.com/himanshuskyrockets/Git4Devs/assets/84278213/5e77c8c5-c0e4-4dc5-b65b-30b4c55aa651" alt="Account Screenshot" width="500">
+</div>
+
 
 Here are some advanced Git commands that can enhance your workflow:
 
@@ -141,6 +157,10 @@ Here are some advanced Git commands that can enhance your workflow:
 ## **Adding a Local Repository to GitHub using Git**
 
 Adding a local repository to GitHub using Git is a straightforward process. Follow these steps:
+<div align="left">
+  <img src="https://github.com/himanshuskyrockets/Git4Devs/assets/84278213/e8812beb-85f2-4497-8ae5-56bcdf684003" alt="Local" width="500" height="350">
+</div>
+
 
 Step 1: Initialize the local directory as a Git repository.
 
@@ -170,7 +190,12 @@ Congratulations! You have successfully added your local repository to GitHub.
 
 ## **Difference between Git and GitHub**
 
+
 Git and GitHub are closely related but serve different purposes:
+<div align="left">
+  <img src="https://github.com/himanshuskyrockets/Git4Devs/assets/84278213/b95baf38-cc25-4262-b9a2-21e8b3ac0441" alt="Local" width="500">
+</div>
+
 
 **Git** is a version control system that allows you to track changes made to your code over time. It helps you manage different versions of your code and collaborate with others.
 
